@@ -1,0 +1,324 @@
+[
+	{
+		"mp3": "あ.mp3",
+		"jp": "あ",
+		"ph": "Ａ",
+		"img": "あ.png",
+		"desc": "To remember this kana, find the capital A inside of it. This \"A\" will tell you that this kana is also \"a\" aka あ. There is another similar kana, お, but that one doesn't have an \"A\" in it, which is how you can differentiate them."
+	},
+	{
+		"mp3": "い.mp3",
+		"jp": "い",
+		"ph": "Ｉ",
+		"img": "い.png",
+		"desc": "To remember this kana, just think of a couple of eels hanging out. They're upright because they're trying to mimic the letter \"i\" which also stands upright and also happens to be the way you spell out this character in romaji1."
+	},
+	{
+		"mp3": "う.mp3",
+		"jp": "う",
+		"ph": "Ｕ",
+		"img": "う.png",
+		"desc": "To remember this kana, notice the U shape right in it! It's sideways but it's there, telling you what this kana is. Be careful, there's another similar hiragana, つ, but that one isn't wearing a hat like U (you) are. Ooh, ahh, what a nifty hat!"
+	},
+	{
+		"mp3": "え.mp3",
+		"jp": "え",
+		"ph": "Ｅ",
+		"img": "え.png",
+		"desc": "To remember this kana, think of it like an exotic bird. The feathery thing on its head gives it away that it's exotic and not normal. It also lays exotic eggs, because it's an exotic bird, after all."
+	},
+	{
+		"mp3": "お.mp3",
+		"jp": "お",
+		"ph": "Ｏ",
+		"img": "お.jpg",
+		"desc": "Can you see the letter o in here, two times? This one looks similar to あ, except for its one key difference: there are two letter \"o\" symbols visible in there. Make sure you use this to differentiate this kana (お) and that similar kana (あ). This is one area of hiragana where a lot of people trip up, but by using this mnemonic you will be able to figure them out every time."
+	},
+	{
+		"mp3": "か.mp3",
+		"jp": "か",
+		"ph": "ＫＡ",
+		"img": "か-mosquito.png",
+		"desc": "See how this kana looks like a mosquito? What a convenient coincidence. Mosquitos happen to be called か (ka) in Japanese. You also say \"cut it out, darn mosquito!\" when they try to suck your blood, so that should be easy to remember."
+	},
+	{
+		"mp3": "き.mp3",
+		"jp": "き",
+		"ph": "ＫＩ",
+		"img": "き.png",
+		"desc": "To remember this, notice how much it resembles a key."
+	},
+	{
+		"mp3": "く.mp3",
+		"jp": "く",
+		"ph": "ＫＵ",
+		"img": "く.png",
+		"desc": "To remember this, think of this kana being the mouth of a coo-coo / cuckoo bird popping out saying \"ku ku, ku ku!\""
+	},
+	{
+		"mp3": "け.mp3",
+		"jp": "け",
+		"ph": "ＫＥ",
+		"img": "け-kelp.png",
+		"desc": "See how this kana resembles some wiggly kelp?"
+	},
+	{
+		"mp3": "こ.mp3",
+		"jp": "こ",
+		"ph": "ＫＯ",
+		"img": "こ.png",
+		"desc": "こ is a couple of co-habitation worms. They're so happy together, co-habitating the same area! Alternatively, you could imagine a couple of short cords laying on the ground next to each other."
+	},
+	{
+		"mp3": "さ.mp3",
+		"jp": "さ",
+		"ph": "ＳＡ",
+		"img": "さ-salsa.jpg",
+		"desc": "Notice how this kana looks like two hands stirring a bowl of salsa. This salsa is so chunky and thick, you need two hands just to stir it!"
+	},
+	{
+		"mp3": "し.mp3",
+		"jp": "し",
+		"ph": "ＳＨＩ",
+		"img": "し-sheperds-crook.png",
+		"desc": "This kana looks like a giant shepherd's crook used to herd sheep. Baaaa… get in that corral, sheep!"
+	},
+	{
+		"mp3": "す.mp3",
+		"jp": "す",
+		"ph": "ＳＵ",
+		"img": "す.png",
+		"desc": "See the swing doing a loop-dee-loop throwing that poor kid off of it? Imagine him screaming \"I'M GONNA SUE SOMEBODY FOR THIIIIIiiiissss\" as he flies off into the distance."
+	},
+	{
+		"mp3": "せ.mp3",
+		"jp": "せ",
+		"ph": "ＳＥ",
+		"img": "せ.png",
+		"desc": "This kana looks like a mouth with a big vampire fang in it. Someone's trying to sell you a set of vampire teeth because they are just so sexy! Oh Dracula, always trying to make a quick buck."
+	},
+	{
+		"mp3": "そ.mp3",
+		"jp": "そ",
+		"ph": "ＳＯ",
+		"img": "そ-soda.png",
+		"desc": "See how this kana looks like a mouth slurping soda?"
+	},
+	{
+		"mp3": "た.mp3",
+		"jp": "た",
+		"ph": "ＴＡ",
+		"img": "た-taco.png",
+		"desc": "Use your imagination and see this kana as a fork, taco, and lime garnish for your taco. Wait… you're eating a taco with a fork? That's a bit weird, but you do you, pal."
+	},
+	{
+		"mp3": "ち.mp3",
+		"jp": "ち",
+		"ph": "ＣＨＩ",
+		"img": "ち-say-cheese.png",
+		"desc": "You know when someone tells you to say \"cheese\" when taking a picture of you? This kana looks like that forced smile you have to make every time you're in a group photo."
+	},
+	{
+		"mp3": "つ.mp3",
+		"jp": "つ",
+		"ph": "ＴＳＵ",
+		"img": "つ-tsunami.jpg",
+		"desc": "This is another \"exception\" hiragana. Instead of saying \"tu\" you say \"tsu.\""
+	},
+	{
+		"mp3": "て.mp3",
+		"jp": "て",
+		"ph": "ＴＥ",
+		"img": "て-telescope.png",
+		"desc": "Can you see a good ol' telescope? It's a hand-held one! In Japanese, \"hand\" is て (te). That should help you remember that this kana looks like an old-school hand(te)-held telescope."
+	},
+	{
+		"mp3": "と.mp3",
+		"jp": "と",
+		"ph": "ＴＯ",
+		"img": "と.png",
+		"desc": "This kana looks just like someone's toe with a little nail or splinter in it. Imagine how much this would hurt if it was your toe!"
+	},
+	{
+		"mp3": "な.mp3",
+		"jp": "な",
+		"ph": "ＮＡ",
+		"img": "な.jpg",
+		"desc": "The nun is praying in front of the cross asking for nachos, because she's craving a delicious snack. The cross up in the air should be the main giveaway that this is な."
+	},
+	{
+		"mp3": "に.mp3",
+		"jp": "に",
+		"ph": "ＮＩ",
+		"img": "に.jpg",
+		"desc": "Do you see the needle pulling the thread?"
+	},
+	{
+		"mp3": "ぬ.mp3",
+		"jp": "ぬ",
+		"ph": "ＮＵ",
+		"img": "ぬ.jpg",
+		"desc": "This kana looks like some noodles. There are several other kana that are similar to this one (れ, め, ね, わ), but you know this one is noodles because there are no sharp angles in it. It's 100% smooth and bendable, like noodles! It even has an extra loop at the bottom, because it is a noodle."
+	},
+	{
+		"mp3": "ね.mp3",
+		"jp": "ね",
+		"ph": "ＮＥ",
+		"img": "ね.png",
+		"desc": "This is Nelly the cat. There are other kana very similar to this one (ぬ, れ, め, わ), but you know this is different. Why? Because it has a loop at the end for the tail, and it's not super bendable like ぬ (noodles) is — see those sharp corners on the left?"
+	},
+	{
+		"mp3": "の.mp3",
+		"jp": "の",
+		"ph": "ＮＯ",
+		"img": "の.jpg",
+		"desc": "See the big pig nose there? You can also think of this as a \"No Smoking\" sign (the ones with the cigarette and the big red circle and slash through it). Pick the one that sticks with you the best."
+	},
+	{
+		"mp3": "は.mp3",
+		"jp": "は",
+		"ph": "ＨＡ",
+		"img": "は.png",
+		"desc": "This kana looks like an uppercase letter H plus a lowercase letter a."
+	},
+	{
+		"mp3": "ひ.mp3",
+		"jp": "ひ",
+		"ph": "ＨＩ",
+		"img": "ひ.jpg",
+		"desc": "He has a big nose. See that big nose? Now say it out loud. \"He has a big nose.\""
+	},
+	{
+		"mp3": "ふ.mp3",
+		"jp": "ふ",
+		"ph": "ＦＵ",
+		"img": "ふ-fool-hula-hoop.jpg",
+		"desc": "Someone is over there dancing like a fool. What's that around their neck? …Oh, that's a hula hoop! That's why they're twisting their body so hard."
+	},
+	{
+		"mp3": "へ.mp3",
+		"jp": "へ",
+		"ph": "ＨＥ",
+		"img": "へ.jpg",
+		"desc": "Do you know the famous mountain Mt. Saint Helens? This kana isn't totally flat like Helens is, but it's pretty squat looking. That's why this one is Helens."
+	},
+	{
+		"mp3": "ほ.mp3",
+		"jp": "ほ",
+		"ph": "ＨＯ",
+		"img": "ほ.png",
+		"desc": "The line on the left is a chimney. The right side is a mutated Santa Claus. He has four arms, a snake tail, and no head. Out of his neck he's uttering \"ho ho ho… ho ho ho…\""
+	},
+	{
+		"mp3": "ま.mp3",
+		"jp": "ま",
+		"ph": "ＭＡ",
+		"img": "ま.jpg",
+		"desc": "Removing your head? Doubling your hands and arms? What sort of evil magic is this? What makes it weirder is that your mama is the one doing this magic. Imagine your ma looking like this. Aghh!"
+	},
+	{
+		"mp3": "み.mp3",
+		"jp": "み",
+		"ph": "ＭＩ",
+		"img": "み.jpg",
+		"desc": "Looks like lucky number 21. Who just hit the blackjack? Me! Who just turned 21 as well? Me!!"
+	},
+	{
+		"mp3": "む.mp3",
+		"jp": "む",
+		"ph": "ＭＵ",
+		"img": "む.jpg",
+		"desc": "\"Moooooo\", says the cow. \"MOOOOOOO.\""
+	},
+	{
+		"mp3": "め.mp3",
+		"jp": "め",
+		"ph": "ＭＥ",
+		"img": "め.jpg",
+		"desc": "Look at that beautiful eye! It's so beautiful because of the makeup on it. Gotta look pretty in the eyes, or else your ensemble will just be \"meh.\""
+	},
+	{
+		"mp3": "も.mp3",
+		"jp": "も",
+		"ph": "ＭＯ",
+		"img": "も.jpg",
+		"desc": "You want to catch more so you add more worms to your hook."
+	},
+	{
+		"mp3": "や.mp3",
+		"jp": "や",
+		"ph": "ＹＡ",
+		"img": "や-yacht.png",
+		"desc": "See how this kana looks like a yacht with an anchor going down? It's even got a little flag on the rear… how cute."
+	},
+	{
+		"mp3": "ゆ.mp3",
+		"jp": "ゆ",
+		"ph": "ＹＵ",
+		"img": "ゆ.png",
+		"desc": "This kana is a very unique looking fish! It looks like a big eyeball swimming in the water. What's it looking at? You, you big goofball! Isn't it weird how fish always look like they're staring at you?"
+	},
+	{
+		"mp3": "よ.mp3",
+		"jp": "よ",
+		"ph": "ＹＯ",
+		"img": "よ-yo.jpg",
+		"desc": "Yo, this kana looks like the letters Y & O! And look, you can even play yo-yo with it. Look at it slide down and back up again… it's mesmerizing, yo."
+	},
+	{
+		"mp3": "ら.mp3",
+		"jp": "ら",
+		"ph": "ＲＡ",
+		"img": "ら-rabbit.png",
+		"desc": "ら looks like a rabbit that's standing and facing left. Look at its big droopy ears. So cute!"
+	},
+	{
+		"mp3": "り.mp3",
+		"jp": "り",
+		"ph": "ＲＩ",
+		"img": "り.png",
+		"desc": "The reeds are swaying in the wind."
+	},
+	{
+		"mp3": "る.mp3",
+		"jp": "る",
+		"ph": "ＲＵ",
+		"img": "る.png",
+		"desc": "The is like ろ (you'll learn it in a second) except it has a loop at the end. る is a crazier route. There is a loop at the end. Are there no rules on this road?"
+	},
+	{
+		"mp3": "れ.mp3",
+		"jp": "れ",
+		"ph": "ＲＥ",
+		"img": "れ.png",
+		"desc": "This looks like a guy kneeling on the ground, retching up his dinner."
+	},
+	{
+		"mp3": "ろ.mp3",
+		"jp": "ろ",
+		"ph": "ＲＯ",
+		"img": "ろ.png",
+		"desc": "This is the counterpart to る, except this one doesn't have a loop at the end. So this kana is just a plain old road."
+	},
+	{
+		"mp3": "わ.mp3",
+		"jp": "わ",
+		"ph": "ＷＡ",
+		"img": "わ-wasp.png",
+		"desc": "This kana looks like a wasp flying straight up."
+	},
+	{
+		"mp3": "を.mp3",
+		"jp": "を",
+		"ph": "ＷＯ",
+		"img": "を.png",
+		"desc": "\"Whoa!\" yells the guy with no chin. Someone threw a boomerang into his mouth! That's pretty \"whoa\"-worthy, I think."
+	},
+	{
+		"mp3": "ん.mp3",
+		"jp": "ん",
+		"ph": "Ｎ",
+		"img": "ん.png",
+		"desc": "This kana looks just like the lowercase n in English. They happen to be the same sounds, as well. How convenient! nnnんんん."
+	}
+]
