@@ -5,9 +5,12 @@ This deck is available on [AnkiWeb](https://ankiweb.net/shared/info/507836279).
 # Build
 
 ```sh
+npm i -g pnpm
 pnpm install
 pnpm ts-node --esm index.ts
 ```
+
+The deck will be built into `hiragana.apkg`.
 
 # Info
 
